@@ -1,0 +1,15 @@
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\bin\Debug\net7.0\Suma.exe
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\bin\Debug\net7.0\Suma.deps.json
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\bin\Debug\net7.0\Suma.runtimeconfig.json
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\bin\Debug\net7.0\Suma.dll
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\bin\Debug\net7.0\Suma.pdb
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\obj\Debug\net7.0\Suma.csproj.AssemblyReference.cache
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\obj\Debug\net7.0\Suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\obj\Debug\net7.0\Suma.AssemblyInfoInputs.cache
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\obj\Debug\net7.0\Suma.AssemblyInfo.cs
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\obj\Debug\net7.0\Suma.csproj.CoreCompileInputs.cache
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\obj\Debug\net7.0\Suma.dll
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\obj\Debug\net7.0\refint\Suma.dll
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\obj\Debug\net7.0\Suma.pdb
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\obj\Debug\net7.0\Suma.genruntimeconfig.cache
+C:\Users\jhong\OneDrive\Desktop\logicap\Suma\obj\Debug\net7.0\ref\Suma.dll

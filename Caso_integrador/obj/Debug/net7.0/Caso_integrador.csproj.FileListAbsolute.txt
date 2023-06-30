@@ -1,0 +1,15 @@
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\bin\Debug\net7.0\Caso_integrador.exe
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\bin\Debug\net7.0\Caso_integrador.deps.json
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\bin\Debug\net7.0\Caso_integrador.runtimeconfig.json
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\bin\Debug\net7.0\Caso_integrador.dll
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\bin\Debug\net7.0\Caso_integrador.pdb
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\obj\Debug\net7.0\Caso_integrador.csproj.AssemblyReference.cache
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\obj\Debug\net7.0\Caso_integrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\obj\Debug\net7.0\Caso_integrador.AssemblyInfoInputs.cache
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\obj\Debug\net7.0\Caso_integrador.AssemblyInfo.cs
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\obj\Debug\net7.0\Caso_integrador.csproj.CoreCompileInputs.cache
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\obj\Debug\net7.0\Caso_integrador.dll
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\obj\Debug\net7.0\refint\Caso_integrador.dll
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\obj\Debug\net7.0\Caso_integrador.pdb
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\obj\Debug\net7.0\Caso_integrador.genruntimeconfig.cache
+C:\Users\jhong\OneDrive\Desktop\logicap\Caso_integrador\obj\Debug\net7.0\ref\Caso_integrador.dll
